@@ -8,4 +8,7 @@ public class CDP {
 		System.out.println("Started POC");
 		System.out.println("Completed POC");
 	}
+	void tableRefChange(){
+		System.out.println("tableRefChange");
+	}
 }
